@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/acycliclabs/keythereum.svg?branch=master)](https://travis-ci.org/acycliclabs/keythereum) [![Coverage Status](https://coveralls.io/repos/github/acycliclabs/keythereum/badge.svg?branch=master)](https://coveralls.io/github/acycliclabs/keythereum?branch=master) [![npm version](https://badge.fury.io/js/%40acyclic%2Fkeythereum.svg)](https://badge.fury.io/js/%40acyclic%2Fkeythereum)
 
-#### Note: This project is a fork of the [keythereum](https://github.com/ethereumjs/keythereum) project.
+#### Note: This project is a fork of the [keythereum](https://github.com/ethereumjs/keythereum) v1.1.0 project.
 
 Keythereum is a JavaScript tool to generate, import and export Ethereum keys.  This provides a simple way to use the same account locally and in web wallets.  It can be used for verifiable cold storage wallets.
 
